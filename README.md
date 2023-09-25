@@ -11,7 +11,7 @@ Le fichier se trouve:
 
 Il se nomme _02 - Bootstrap - Layout responsive_.
 
-Vous pouvez également le trouver [ici](https://www.figma.com/file/ca74p3qOOop3BzU7i2THC0/02---Bootstrap---Layout-responsive?type=design&node-id=0%3A1&mode=design&t=vLEjwUGg425QCfoi-1).
+Vous pouvez également le trouver [ici]().https://www.figma.com/file/ca74p3qOOop3BzU7i2THC0/02---Bootstrap---Layout-responsive?type=design&node-id=0%3A1&mode=design&t=vLEjwUGg425QCfoi-1
 
 ### Rendre les colonnes visibles
 
